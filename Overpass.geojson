@@ -1,0 +1,597 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-02-19T20:34:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/812746100",
+      "properties": {
+        "@id": "node/812746100",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2628929,
+          37.2397844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/812746135",
+      "properties": {
+        "@id": "node/812746135",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2616591,
+          37.2406171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/812746144",
+      "properties": {
+        "@id": "node/812746144",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Applebees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2603287,
+          37.2412108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/814588830",
+      "properties": {
+        "@id": "node/814588830",
+        "amenity": "restaurant",
+        "name": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2994911,
+          37.1927218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/824056250",
+      "properties": {
+        "@id": "node/824056250",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "Panera Bread"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3119434,
+          37.2433654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1294141804",
+      "properties": {
+        "@id": "node/1294141804",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Nonna's Italian American Cafe",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2920815,
+          37.2079531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1597282654",
+      "properties": {
+        "@id": "node/1597282654",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "McAlister's Deli",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2937613,
+          37.18161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727974773",
+      "properties": {
+        "@id": "node/2727974773",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Cedars Family Restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3491728,
+          37.2137157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727974787",
+      "properties": {
+        "@id": "node/2727974787",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Waffle House",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3479658,
+          37.2133612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730569162",
+      "properties": {
+        "@id": "node/2730569162",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3014654,
+          37.1826651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730569171",
+      "properties": {
+        "@id": "node/2730569171",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.306921,
+          37.182101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2730569215",
+      "properties": {
+        "@id": "node/2730569215",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3156677,
+          37.1828852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738592968",
+      "properties": {
+        "@id": "node/2738592968",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2618858,
+          37.1848532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738592977",
+      "properties": {
+        "@id": "node/2738592977",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2619582,
+          37.1854878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738809145",
+      "properties": {
+        "@id": "node/2738809145",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2728332,
+          37.1820742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738875506",
+      "properties": {
+        "@id": "node/2738875506",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2623941,
+          37.2001636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738893468",
+      "properties": {
+        "@id": "node/2738893468",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2623083,
+          37.2069102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738900167",
+      "properties": {
+        "@id": "node/2738900167",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2623056,
+          37.2137395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738900185",
+      "properties": {
+        "@id": "node/2738900185",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2624558,
+          37.21425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738912201",
+      "properties": {
+        "@id": "node/2738912201",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2623431,
+          37.2169585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959304",
+      "properties": {
+        "@id": "node/2738959304",
+        "addr:housenumber": "2823",
+        "addr:postcode": "65803",
+        "addr:street": "North Glenstone Avenue",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Little Tokyo",
+        "phone": "417-862-6633",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2621715,
+          37.2480989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959434",
+      "properties": {
+        "@id": "node/2738959434",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.260707,
+          37.2372134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959488",
+      "properties": {
+        "@id": "node/2738959488",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2614741,
+          37.2369913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959557",
+      "properties": {
+        "@id": "node/2738959557",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2619086,
+          37.2272831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959620",
+      "properties": {
+        "@id": "node/2738959620",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2621339,
+          37.2175074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2738959629",
+      "properties": {
+        "@id": "node/2738959629",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2616243,
+          37.2306233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089048",
+      "properties": {
+        "@id": "node/2739089048",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3113927,
+          37.2461282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739089132",
+      "properties": {
+        "@id": "node/2739089132",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3102635,
+          37.2476847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2741464666",
+      "properties": {
+        "@id": "node/2741464666",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Golden House Chinese Food",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3322744,
+          37.2117957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2741522999",
+      "properties": {
+        "@id": "node/2741522999",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "La Hacienda",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3665497,
+          37.2126494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2748968733",
+      "properties": {
+        "@id": "node/2748968733",
+        "addr:housenumber": "3459",
+        "addr:postcode": "65803",
+        "addr:street": "West Kearney Street",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Purple Burrito",
+        "phone": "417-866-7722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3464434,
+          37.2419312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2748986652",
+      "properties": {
+        "@id": "node/2748986652",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Waffle House",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3103811,
+          37.2483859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2751213403",
+      "properties": {
+        "@id": "node/2751213403",
+        "addr:housenumber": "3135",
+        "addr:postcode": "65803",
+        "addr:street": "North Glenstone Avenue",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Waffle House",
+        "phone": "417-833-1800",
+        "source": "bing",
+        "website": "wafflehouse.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2654306,
+          37.2539089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2760235944",
+      "properties": {
+        "@id": "node/2760235944",
+        "addr:housenumber": "603",
+        "addr:street": "South Kimbrough Avenue",
+        "amenity": "restaurant",
+        "contact:phone": "417-832-1300",
+        "cuisine": "pizza",
+        "description": "BTC payment via Menufy.",
+        "name": "Pizza Habit",
+        "payment:bitcoin": "yes",
+        "source": "http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/",
+        "website": "http://pizzahabit.menufy.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2872126,
+          37.203905
+        ]
+      }
+    }
+  ]
+}
