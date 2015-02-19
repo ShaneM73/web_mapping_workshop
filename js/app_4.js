@@ -1,8 +1,8 @@
 ///////////////////////////////////////////////////////////////////////////
 // Enter your mapbox map id here to reference it for the base layer
 
-var mapId = 'will-breitkreutz.k6fj4l3f'; //<- this references the ugly green map that I made
-var token = 'pk.eyJ1Ijoid2lsbC1icmVpdGtyZXV0eiIsImEiOiItMTJGWEF3In0.HEvuRMMVxBVR5-oDYvudxw'; //<- this is my token, use yours.
+var mapId = 'shanem73.l8mmgp1d'; //<- this references the ugly green map that I made
+var token = 'pk.eyJ1Ijoic2hhbmVtNzMiLCJhIjoiTVRzUV9HMCJ9.PX0AmPGEIQ50GbJ6ui160Q'; //<- this is my token, use yours..
 
 //Create the map object with your mapId and token
 L.mapbox.accessToken = token;
@@ -14,7 +14,7 @@ map.setView([39, -96], 4);
 ///////////////////////////////////////////////////////////////////////////
 // This is the area we're going to use to add data to our map
 
-var dataFileToAdd = 'data/bike_routes.geojson'; //<- Point this to the file that you want to include on the map
+var dataFileToAdd = 'Overpass.geojson'; //<- Point this to the file that you want to include on the map
 var dataToAdd;
 
 var featureLayer = L.mapbox.featureLayer()
@@ -23,12 +23,21 @@ var featureLayer = L.mapbox.featureLayer()
 
 featureLayer.on('ready', function() {
     this.setStyle({
-        "color": "#F22E2E",
-        "fillColor": "#F22E2E",
-        "weight": 5,
+        "color": "#fff",
+        "fillColor": "#fff",
+        "weight": 6,
         "opacity": 1
     });
     map.fitBounds(featureLayer.getBounds());
+});
+
+///////////////////////////////////////////////////////////////////////////
+// Add some basic click handling
+
+featureLayer.on('ready', function(){
+  this.eachLayer(function(layer){
+    layer.bindPopup('Restaurant Name: ' + layer.feature.properties.name);
+  });
 });
 
 ///////////////////////////////////////////////////////////////////////////
