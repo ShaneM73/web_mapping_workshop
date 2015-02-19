@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.271484375,
+              36.914764288955936
+            ],
+            [
+              -103.271484375,
+              38.41055825094609
+            ],
+            [
+              -100.2392578125,
+              38.41055825094609
+            ],
+            [
+              -100.2392578125,
+              36.914764288955936
+            ],
+            [
+              -103.271484375,
+              36.914764288955936
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d39829",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4169921875,
+          39.90973623453719
+        ]
+      }
+    }
+  ]
+}
